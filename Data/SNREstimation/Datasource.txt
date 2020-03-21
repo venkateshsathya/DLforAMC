@@ -1,0 +1,5 @@
+
+The data used is the OTA Rayleigh data:
+
+Location: '/home/vesathya/ModulationClassification/IQSamples/ICAASP2020Data/PickledData/Rayleigh'
+
